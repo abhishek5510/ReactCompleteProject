@@ -1,0 +1,20 @@
+.App1{
+    text-align: center;
+}
+.App1-legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+}
+
+.App1-Font{
+    position: absolute;
+    top: 0.8em;
+    left: 1em;
+    font-size: 3em;
+    color:black; 
+}
+
+.td:hover{
+    background-color: blue;
+}

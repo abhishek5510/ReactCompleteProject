@@ -1,0 +1,20 @@
+.wall{
+    background-color:  #99B898;  
+}
+.User{
+    background-color:black;
+}
+.jumbotron1{
+    position: relative;
+    top:2em;
+    text-align: center;
+    background-color: #EDE574  ;
+}
+.jumbotron1 h1,p{
+    color:#45ADA8;
+}
+.Button{
+    background-color: black;
+    position: relative;
+    right:5em;
+}

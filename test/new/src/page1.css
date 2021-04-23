@@ -1,0 +1,62 @@
+.App1{
+    text-align: center;
+}
+
+.App1-Font{
+    position: absolute;
+    top: 0.8em;
+    left: 1em;
+    font-size: 3em;
+    color:black; 
+}
+
+.App1-Container{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+
+.App1-button{
+    position: relative;
+    top: 0.8em;
+    right:16em;
+}
+
+.App1-button1{
+    position: relative;
+    top: 0.8em;
+    left:16em;
+}
+
+.App1-form{
+    width: 100%;
+    background-color: #88d8b0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    box-shadow: 0 2px 1px #ccc;
+    margin: auto;
+    padding: 10px 0;
+}
+.App1-legend{
+    background-color:rosybrown;
+    margin: 20px;
+    width: 155px;
+}
+.App1-fieldset{
+    border: 3px solid;
+}
+@media (max-width:480px){
+    .App1-button{
+        position: relative;
+        top:0.8em;
+        right:3.4em;
+    }
+    .App1-button1{
+        position: relative;
+        top:0.8em;
+        left:3.4em;
+    }
+}
